@@ -25,8 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[audio](tienmanhptit1312.github.io/convert_p225_to_p226_016.wav)
-<audio src="/assets/2018-03-21/audio.wav" controls preload></audio>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
@@ -34,5 +33,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tienmanhptit1312/tienmanhptit1312.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+
+[audio](tienmanhptit1312.github.io/convert_p225_to_p226_016.wav)
+<audio src="/assets/2018-03-21/audio.wav" controls preload></audio>
+aaaaaaaaaaaaaaaaaa
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
