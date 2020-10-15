@@ -34,8 +34,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-[audio](tienmanhptit1312.github.io/convert_p225_to_p226_016.wav)
-<audio src="/assets/2018-03-21/audio.wav" controls preload></audio>
-!audio[myaudio](https://drive.google.com/file/d/1AORSBsMYCdccwMBvJyZcUJfwQwD5a16w/view?usp=sharing)
+day la mot cai test nhe
 
+[audio](https://drive.google.com/file/d/1AORSBsMYCdccwMBvJyZcUJfwQwD5a16w/view?usp=sharing)
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
