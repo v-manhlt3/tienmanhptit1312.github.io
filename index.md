@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[audio](tienmanhptit1312.github.io/convert_p225_to_p226_016.wav)
 <audio src="/assets/2018-03-21/audio.wav" controls preload></audio>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
