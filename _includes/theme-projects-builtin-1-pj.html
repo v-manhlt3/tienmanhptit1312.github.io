@@ -1,0 +1,16 @@
+<div style="padding-top: 20px" class="ui container ">
+  {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
+
+  <div class="ui stackable centered four cards">
+    {% for page in project_pages %}
+      {% include project-card-pj.html page=page %}
+      {% if forloop.index == include.limit %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if project_pages.size > include.limit %}
+  <p style="text-align: center; padding: 20px"><a href="{{ site.baseurl}}/projects/all.html">See all {{ project_pages.size }} projects</a></p>
+  {% endif %}
+</div>
